@@ -1,6 +1,6 @@
 {
   "name": "fz2062_simple_calculator",
-  "version": "1.1.4",
+  "version": "2.1.4",
   "description": "A simple calculator with typscript, node.js and inquirer",
   "main": "index.js",
   "type": "module",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^5.3.0",
     "inquirer": "^9.2.16"
   },
   "devDependencies": {
